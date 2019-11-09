@@ -1,0 +1,217 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*************************header sectionn start*************************/
+
+
+.navbar-brand {
+   
+    font-size: 30px;
+    font-weight: 600;
+    color: #000da1;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.navbar-expand-lg {
+    height: 100px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding:0;
+    font-size: 12px;
+    margin-left: 27px;
+    color: #0b31a4;
+}
+
+
+/*************************header sectionn end*************************/
+
+
+/*************************banner sectionn start*************************/
+
+.bannersection{
+    background-image: url(../images/bg-image.jpg);
+    background-size: cover;
+    margin-bottom: 115px;
+    position: relative;
+}
+
+
+.bannersection.row{
+   
+    min-height: 700px;
+}
+
+.bannersection h1{
+    font-size: 82px;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.downarrow{
+    position: absolute;
+    left: 50%;
+}
+
+/*************************banner sectionn end*************************/
+
+
+/**************************who we are section start**************************/
+
+
+.whoweare{}
+
+
+.whoweare h2{
+    font-size: 36px;
+    color: #0b31a4;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+p{
+    font-size: 14px;
+    color: #adbbbd;
+    margin-bottom: 0;
+}
+
+
+
+/**************************who we are section end**************************/
+
+/*what we do section start*/
+.whatwedo{
+    margin-top: 70px; 
+    position: relative;
+    margin-bottom: 125px;
+
+}
+.whatwedo h2{font-size: 36px;
+    color: #0b31a4;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+
+.whatwedo h3{
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    color: #0b0c0b;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transform: translate(50%, 50%);
+    transform: translate(-50%, -50%);
+}
+.whatwedo i{
+    position: absolute;
+    left: 50%;
+    bottom: 67px;
+    color: red;
+    transform: translate(-7px, 12px);
+}
+
+
+/*our attorneys section start*/
+
+.ourattorneys{
+    position: relative;
+    margin-bottom: 125px;
+}
+.ourattorneys h2{
+    font-size: 36px;
+    font-weight: 600;
+}
+.custom-btn{
+    background: #ff631a;1a; */
+;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: white;
+    padding: 4px;
+    }
+
+
+.ourattorneys h3{
+    position: absolute;
+    bottom: 50px;
+    left: 45px;
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+}
+
+
+.ourattorneys img{
+    margin-bottom: 30px;
+}
+
+/*language section start*/
+
+.language{
+    margin-bottom: 140px;
+}
+.language h2{
+    text-align: center;
+    color: #000da1;
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 110px;
+}
+.language h4{}
+.more{
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    color: #ff631a;
+} 
+/*contact section start*/
+
+
+.contact{
+    background-color: #000da1;
+}
+.contact h2{
+    color: white;
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 65px;
+    margin-bottom: 90px;
+}
+.send-button{
+    background: #ff631a;
+    width: 149px;
+    height: 45px;
+    display: block;
+    text-align: center;
+    padding: 30px;
+    margin-right: 52px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+}
+/*footer section start*/
+
+.footer{
+    background-color: #02072e;
+    padding: 40px;
+}
+.footer i{
+    font-size: 22px;
+    color: white;
+    margin-left: 25px;
+}
+
+socialshare{}
+.socialshare li{}
+.socialshare a{}
